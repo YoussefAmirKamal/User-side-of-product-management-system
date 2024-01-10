@@ -1,0 +1,32 @@
+.beforProducts {
+  height: 700px;
+  margin-top: 20px;
+  background-image: url("../../../../assets/background.jpg");
+  background-size: cover;
+  filter: brightness(100%);
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.beforProducts p {
+  padding-top: 470px;
+  padding-left: 29%;
+  color: white;
+  font-weight: 500;
+  font-family: fantasy;
+  font-size: xx-large;
+}
+
+.AllProducts {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(88, 88, 88);
+  padding-top: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.AllProducts p {
+  text-align: center;
+  font-weight: 800;
+  color: white;
+  font-size: xx-large;
+}
